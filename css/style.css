@@ -1,0 +1,42 @@
+html body {
+	background-color: #e2e2e2;
+}
+.navbar {
+	margin-bottom: 0;
+	text-align: center;
+	padding: 15px;
+	font-family: 'Russo One', sans-serif;
+	font-size: 1.2em;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #ff6c00;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.bg-1 {
+	background-color: #e2e2e2;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.bg-2 {
+	background-color: #7e7e7e;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+footer {
+	margin-top: 50px;
+	padding: 20px;
+	font-size: 0.8em;
+}
