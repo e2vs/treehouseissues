@@ -39,7 +39,7 @@
             <li><a href="/">ETUSIVU</a></li>
             <li><a target="_blank" href="http://eu.battle.net/wow/en/guild/stormreaver/Treehouse_Issues/">ARMORY</a></li>
             <li><a target="_blank" href="http://www.wowprogress.com/guild/eu/stormreaver/Treehouse+Issues">WOWPROGRESS</a></li>
-            <li><a href="apply.php">HAKEMUS</a></li>
+            <li><a href="http://wippi.arkku.net/apply/apply.php">HAKEMUS</a></li>
           </ul>
         </div>
       </div>
