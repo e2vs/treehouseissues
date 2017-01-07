@@ -16,6 +16,7 @@ if (isset($_POST['submit'])) {
   $message = '
     <html>
     <head>
+      <meta charset="utf-8">
       <title>Hakemus</title>
     </head>
     <body>
@@ -36,7 +37,7 @@ if (isset($_POST['submit'])) {
   ';
 
   $headers  = 'MIME-Version: 1.0' . "\r\n";
-  $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
+  $headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 
   mail($to, $subject, $message, $headers);
   header('Location: http://treehouse-issues.fi/sent.php');
